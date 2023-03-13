@@ -226,15 +226,19 @@ html{
     }
     #check{
         width: 15px;
-        left: 0%;
+        left: 12%;
+        top: 57.5%;
+        margin: 0;
     }
     .log .info p{
-        margin-left: 30px;
+        margin-left: 45px;
         margin-top: -7px;
     }
     .log .info h3{
         color: rgba(255, 255, 255, 0.8);
         cursor: pointer;
+        font-size:16px;
+        margin-left: 19px;
     }
     .last{
         width: 100%;
