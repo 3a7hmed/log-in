@@ -198,6 +198,7 @@ html{
     }
     .container .navbar .list{
         left: 8%;
+        padding:0;
     }
     .container .navbar .list .item a{
         margin-left: 0px;
